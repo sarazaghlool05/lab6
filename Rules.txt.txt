@@ -1,0 +1,16 @@
+Hey everyone! Please read carefully before doing anything!
+
+1.I made the GitHub repo for Lab 6.
+2.You’ll each find a folder with your diagram name 
+  — use only your folder!
+3.Paste your diagram and its explanation there.
+4.Open GitHub Desktop → write a short commit message 
+ (e.g. “Added activity diagram – ZA”) 
+ → click “Commit” then “Push origin.”
+5.Don’t move, rename, or delete other folders.
+6.Don’t touch the main branch except to push your work.
+
+If anything looks weird, ask before doing anything.
+
+Thanks ❤
+-Sara Zaghlool
