@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="28.2.8">
   <diagram name="Page-1" id="ZAP-s-ogbsglHDugqowI">
-    <mxGraphModel dx="2629" dy="1187" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1227" dy="653" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -151,7 +151,7 @@
         <mxCell id="xX-mcKEVOcom__ea5ptb-40" value="# records: ArrayList&amp;lt;T&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fontColor=#46495D;" parent="xX-mcKEVOcom__ea5ptb-39" vertex="1">
           <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xX-mcKEVOcom__ea5ptb-41" value="- manager: JsonDatabaseManager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fontColor=#46495D;" parent="xX-mcKEVOcom__ea5ptb-39" vertex="1">
+        <mxCell id="xX-mcKEVOcom__ea5ptb-41" value="# manager: JsonDatabaseManager" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fontColor=#46495D;" parent="xX-mcKEVOcom__ea5ptb-39" vertex="1">
           <mxGeometry y="52" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xX-mcKEVOcom__ea5ptb-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="xX-mcKEVOcom__ea5ptb-39" vertex="1">
@@ -239,7 +239,7 @@
         <mxCell id="xX-mcKEVOcom__ea5ptb-67" value="Admin" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="2300" y="688" width="250" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="A_DiwxtRx9TfDpfwdVmi-1" value="&amp;nbsp;- courseService: CourseService" style="whiteSpace=wrap;html=1;align=left;fillColor=#B2C9AB;fontColor=#46495D;strokeColor=#788AA3;labelBackgroundColor=none;" vertex="1" parent="xX-mcKEVOcom__ea5ptb-67">
+        <mxCell id="A_DiwxtRx9TfDpfwdVmi-1" value="&amp;nbsp;- courseService: CourseService" style="whiteSpace=wrap;html=1;align=left;fillColor=#B2C9AB;fontColor=#46495D;strokeColor=#788AA3;labelBackgroundColor=none;" parent="xX-mcKEVOcom__ea5ptb-67" vertex="1">
           <mxGeometry y="26" width="250" height="27" as="geometry" />
         </mxCell>
         <mxCell id="xX-mcKEVOcom__ea5ptb-68" value="+ manageUser(user: User): void" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;fontColor=#46495D;" parent="xX-mcKEVOcom__ea5ptb-67" vertex="1">
